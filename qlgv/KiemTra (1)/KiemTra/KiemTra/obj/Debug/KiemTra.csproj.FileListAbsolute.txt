@@ -1,0 +1,34 @@
+D:\Soure_Code\Window\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+D:\Soure_Code\Window\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+D:\Soure_Code\Window\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\Soure_Code\Window\KiemTra\KiemTra\obj\Debug\KiemTra.Form2.resources
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.SuggestedBindingRedirects.cache
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.Form2.resources
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\trung\Documents\Zalo Received Files\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.QLGVF.resources
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.Form2.resources
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\zangd\OneDrive\Máy tính\Project_V\qlgv\KiemTra (1)\KiemTra\KiemTra\obj\Debug\KiemTra.pdb

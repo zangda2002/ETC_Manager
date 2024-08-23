@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="test"
+    targetNamespace="http://tempuri.org/test.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/test.xsd"
+    xmlns:mstns="http://tempuri.org/test.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="QLsomething" type="K_QLsomething"/>
+		<xs:complexType name="K_QLsomething">
+			<xs:sequence>
+				<xs:element name="idk" maxOccurs ="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ten" type="xs:string"/>
+							<xs:element name="address" type="xs:int"/>
+						</xs:sequence>
+
+						<xs:attribute name="id" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>	
+</xs:schema>

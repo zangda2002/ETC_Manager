@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="hoadon"
+    targetNamespace="http://tempuri.org/hoadon.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/hoadon.xsd"
+    xmlns:mstns="http://tempuri.org/hoadon.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name ="QLGiaovien" type="KQL"/>
+	<xs:complexType name="KQL">
+		<xs:sequence>
+			<xs:element name="Giaovien" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name ="Hoten" type ="xs:string"/>
+						<xs:element name ="Gioitinh" type ="xs:string"/>
+						<xs:element name ="Namsinh" type ="xs:string"/>
+						<xs:element name ="Diachi" type ="xs:string"/>
+						<xs:element name ="Sdt" type ="xs:int"/>
+						<xs:element name ="Monday" type ="xs:string"/>
+						<xs:element name="Lop"  maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name ="Malop" type ="xs:string"/>
+									<xs:element name ="Tenlop" type ="xs:string"/>
+									<xs:element name ="Soluong">
+										<xs:simpleType>
+											<xs:restriction base="xs:int">
+												<xs:minInclusive value="1"/>
+												<xs:maxInclusive value="100"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:element>
+									
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+					<xs:attribute name ="Magv" >
+						<xs:simpleType>
+							<xs:restriction base ="xs:ID">
+								<xs:pattern value ="[a-z]{2}[0-9]{2}"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:attribute>
+				</xs:complexType>
+			</xs:element>
+
+
+
+		</xs:sequence>
+
+
+
+	</xs:complexType>
+</xs:schema>

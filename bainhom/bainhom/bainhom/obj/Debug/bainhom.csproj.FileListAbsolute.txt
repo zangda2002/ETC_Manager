@@ -1,0 +1,30 @@
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.csproj.AssemblyReference.cache
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.Form1.resources
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.Properties.Resources.resources
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.csproj.GenerateResource.cache
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.csproj.CoreCompileInputs.cache
+C:\Users\dodat\source\repos\bainhom\bainhom\bin\Debug\bainhom.exe.config
+C:\Users\dodat\source\repos\bainhom\bainhom\bin\Debug\bainhom.exe
+C:\Users\dodat\source\repos\bainhom\bainhom\bin\Debug\bainhom.pdb
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.exe
+C:\Users\dodat\source\repos\bainhom\bainhom\obj\Debug\bainhom.pdb
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\bin\Debug\bainhom.exe.config
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\bin\Debug\bainhom.exe
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\bin\Debug\bainhom.pdb
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.AssemblyReference.cache
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.QLTTB.resources
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.Properties.Resources.resources
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.GenerateResource.cache
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.CoreCompileInputs.cache
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.exe
+C:\Users\zangd\OneDrive\Máy tính\bainhom\bainhom\bainhom\obj\Debug\bainhom.pdb
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\bin\Debug\bainhom.exe.config
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\bin\Debug\bainhom.exe
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\bin\Debug\bainhom.pdb
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.AssemblyReference.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.QLTTB.resources
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.Properties.Resources.resources
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.GenerateResource.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.csproj.CoreCompileInputs.cache
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.exe
+C:\Users\zangd\OneDrive\Máy tính\Project_V\bainhom\bainhom\bainhom\obj\Debug\bainhom.pdb

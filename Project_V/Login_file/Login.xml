@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLTK>
+  <Taikhoan account="admin">
+    <password>admin</password>
+    <name>hung</name>
+	  <role>admin</role>
+  </Taikhoan>
+  <Taikhoan account="dung">
+    <password>dung</password>
+    <name>dung</name>
+    <role>staff</role>
+  </Taikhoan>
+  <Taikhoan account="thanh">
+    <password>thanh</password>
+    <name>thanh</name>
+    <role>staff</role>
+  </Taikhoan>
+  <Taikhoan account="linh">
+    <password>linh</password>
+    <name>linh</name>
+    <role>staff</role>
+  </Taikhoan>
+</QLTK>

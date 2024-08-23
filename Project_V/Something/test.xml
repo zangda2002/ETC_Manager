@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLsomething xmlns="http://tempuri.org/test.xsd">
+	<idk id="001">
+		<ten>Vu</ten>
+		<address>123</address>
+	</idk>
+
+	<idk id="002">
+		<ten>deo</ten>
+		<address>123</address>
+	</idk>
+</QLsomething>

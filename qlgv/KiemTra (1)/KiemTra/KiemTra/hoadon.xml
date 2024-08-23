@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLGiaovien>
+  <Giaovien Magv="n01">
+    <Hoten>Nguyễn Văn A</Hoten>
+    <Gioitinh>Nam</Gioitinh>
+    <Namsinh>1999</Namsinh>
+    <Diachi>Ha noi</Diachi>
+    <Sdt>092676825</Sdt>
+    <Monday>Các phương pháp hình thức</Monday>
+    <Lop Mal="n03">
+      <Tenlop>CNTTK19P</Tenlop>
+      <Soluong>30</Soluong>
+    </Lop>
+    <Lop Mal="n02">
+      <Tenlop>CNTTK19A</Tenlop>
+      <Soluong>30</Soluong>
+    </Lop>
+    <Lop Mal="n04">
+      <Tenlop>CNTTK19P</Tenlop>
+      <Soluong>30</Soluong>
+    </Lop>
+  </Giaovien>
+  <Giaovien Magv="n02">
+    <Hoten>Nguyễn Văn A</Hoten>
+    <Gioitinh>Nam</Gioitinh>
+    <Namsinh>1999</Namsinh>
+    <Diachi>Hà Nội</Diachi>
+    <Sdt>092676825</Sdt>
+    <Monday>Các phương pháp hình thức</Monday>
+    <Lop Mal="n04">
+      <Tenlop>CNTTK19P</Tenlop>
+      <Soluong>30</Soluong>
+    </Lop>
+  </Giaovien>
+  <Giaovien Magv="n03">
+    <Hoten>Nguyễn Anh</Hoten>
+    <Namsinh>2000</Namsinh>
+    <Gioitinh>Nữ</Gioitinh>
+    <DiaChi>Hà Nam</DiaChi>
+    <Sdt>0832932</Sdt>
+    <Monday>CNPM</Monday>
+  </Giaovien>
+  <Giaovien Magv="n04">
+    <Hoten>ADC</Hoten>
+    <Gioitinh>nam</Gioitinh>
+    <Namsinh>1999</Namsinh>
+    <Diachi>ha nam</Diachi>
+    <Sdt>92704</Sdt>
+    <Monday>Xml</Monday>
+  </Giaovien>
+</QLGiaovien>

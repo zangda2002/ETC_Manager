@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLSV>
+  <SV MaSV="SV01">
+    <TenSV>Dung</TenSV>
+    <Diachi>LuongSon</Diachi>
+    <Gioitinh>Nam</Gioitinh>
+    <NgayDK>2002-12-10</NgayDK>
+    <Lop>ETCK93</Lop>
+  </SV>
+  <SV MaSV="SV02">
+    <TenSV>Vũ</TenSV>
+    <Diachi>LuongSon</Diachi>
+    <Gioitinh>Nam</Gioitinh>
+    <NgayDK>2002-12-10</NgayDK>
+    <Lop>ETCK73</Lop>
+  </SV>
+  <SV MaSV="SV03">
+    <TenSV>Dang</TenSV>
+    <Diachi>BacGiang</Diachi>
+    <Gioitinh>Nam</Gioitinh>
+    <NgayDK>2002-11-10</NgayDK>
+    <Lop>ETCK93</Lop>
+  </SV>
+  <SV MaSV="SV04">
+    <TenSV>Vũ</TenSV>
+    <Diachi>LuongSon</Diachi>
+    <Gioitinh>Nam</Gioitinh>
+    <NgayDK>2002-12-10</NgayDK>
+    <Lop>ETCK90</Lop>
+  </SV>
+</QLSV>

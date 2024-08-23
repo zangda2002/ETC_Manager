@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLGiaovien xmlns="http://tempuri.org/hoadon.xsd">
+	<Giaovien Magv="n05">
+		<Hoten>Nguyễn Văn A</Hoten>
+		<Gioitinh>Nam</Gioitinh>
+		<Namsinh>1999</Namsinh>
+		<Diachi>Hà Nội</Diachi>
+		<Sdt>092676825</Sdt>
+		<Monday>Các phương pháp hình thức</Monday>
+		<Lop Mal="n03">
+			<Tenlop>CNTTK19P</Tenlop>
+			<Soluong>30</Soluong>
+		</Lop>
+		<Lop Mal="n02">
+			<Tenlop>CNTTK19A</Tenlop>
+			<Soluong>30</Soluong>
+		</Lop>
+	</Giaovien>
+
+</QLGiaovien>

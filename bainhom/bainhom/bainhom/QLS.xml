@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<qls>
+  <thongtinsach mas="s01">
+    <tensach>sach 4</tensach>
+    <soluong>1</soluong>
+    <gia>100000</gia>
+    <nhaxuatban>qwerty</nhaxuatban>
+    <capdo>lv1</capdo>
+  </thongtinsach>
+  <thongtinsach mas="s02">
+    <capdo>lv2</capdo>
+    <tensach>sach 2</tensach>
+    <soluong>1</soluong>
+    <gia>200000</gia>
+    <nhaxuatban>asdfg</nhaxuatban>
+  </thongtinsach>
+  <thongtinsach mas="s04">
+    <capdo>lv3</capdo>
+    <tensach>sach 4</tensach>
+    <soluong>1</soluong>
+    <gia>100000</gia>
+    <nhaxuatban>qwerty</nhaxuatban>
+  </thongtinsach>
+</qls>
